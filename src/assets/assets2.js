@@ -184,7 +184,7 @@ export const food_list = [
         category: "Rolls"
     }, {
         _id: "9",
-        name: "Ripple Ice Cream",
+        name: " Ice Cream",
         image: food_9,
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -256,7 +256,7 @@ export const food_list = [
         category: "Cake"
     }, {
         _id: "19",
-        name: "Butterscotch Cake",
+        name: "Butterscotch",
         image: food_19,
         price: 20,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -277,7 +277,7 @@ export const food_list = [
         category: "Pure Veg"
     }, {
         _id: "22",
-        name: "Fried Cauliflower",
+        name: "Fried ghobhi",
         image: food_22,
         price: 22,
         description: "Food provides essential nutrients for overall health and well-being",
