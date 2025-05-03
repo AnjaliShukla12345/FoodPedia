@@ -26,6 +26,8 @@ const {getTotalCartAmount} = useContext(StoreContext)
  <Link to='/' Click={()=>setMenu("Home")}  className={menu === "Home" ? "active": " "}>Home</Link>
 
 <a href='#explore-menu' onClick={()=>setMenu("Menu")} className={menu === "Menu"?"active":"" }>Menu</a>
+
+
 <a href='#app-download'  onClick={()=>setMenu("Mobile-app")}  className={menu === "Mobile-app" ? "active" : " "}>Mobile-app</a>
 <a href='#footer' onClick={()=>setMenu("Contact-us")}  className={menu === "Contact-us" ? "active" : " "}>Contact-us</a>
   

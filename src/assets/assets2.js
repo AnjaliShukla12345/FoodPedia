@@ -2,7 +2,7 @@ import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import logo1 from './logo1.png'
 import header_img from './header_img.png'
-import search_icon from './search_icon.png'
+// import search_icon from './search_icon.png'
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
 import menu_3 from './menu_3.png'
@@ -69,7 +69,7 @@ export const assets2 = {
     logo1,
     basket_icon,
     header_img,
-    search_icon,
+    // search_icon,
     rating_starts,
     add_icon_green,
     add_icon_white,
@@ -130,7 +130,7 @@ export const food_list = [
         name: "Greek salad",
         image: food_1,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description:"Fresh, crisp vegetables with feta cheese, olives, and tangy dressing.",
         category: "Salad"
     },
     {
@@ -138,171 +138,171 @@ export const food_list = [
         name: "Veg salad",
         image: food_2,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Fresh, crunchy vegetables tossed with herbs and light tangy dressing.",
         category: "Salad"
     }, {
         _id: "3",
         name: "Clover Salad",
         image: food_3,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Fresh clover leaves, crisp veggies, light vinaigrette, healthy and refreshing.",
         category: "Salad"
     }, {
         _id: "4",
         name: "Chicken Salad",
         image: food_4,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Fresh, juicy chicken with crisp veggies and creamy, tangy dressing.",
         category: "Salad"
     }, {
         _id: "5",
         name: "Lasagna Rolls",
         image: food_5,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Lasagna rolls are cheesy, saucy pasta spirals baked to perfection.",
         category: "Rolls"
     }, {
         _id: "6",
-        name: "Peri Peri Rolls",
+        name: "Peri Rolls",
         image: food_6,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Spicy, flavorful peri peri rolls filled with tender grilled chicken.",
         category: "Rolls"
     }, {
         _id: "7",
         name: "Chicken Rolls",
         image: food_7,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Spicy grilled chicken wrapped in soft flatbread with fresh veggies.",
         category: "Rolls"
     }, {
         _id: "8",
         name: "Veg Rolls",
         image: food_8,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Spicy, savory vegetable rolls wrapped in soft, flaky paratha bread.",
         category: "Rolls"
     }, {
         _id: "9",
-        name: " Ice Cream",
+        name: "Butter IceCream",
         image: food_9,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Creamy, rich, smooth, sweet, buttery, cold, indulgent, delicious, velvety.",
         category: "Deserts"
     }, {
         _id: "10",
-        name: "Fruit Ice Cream",
+        name: "Fruit IceCream",
         image: food_10,
         price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Refreshing, creamy, fruity, sweet, tangy, chilled, smooth, colorful, delightful, indulgent.",
         category: "Deserts"
     }, {
         _id: "11",
-        name: "Jar Ice Cream",
+        name: "Choco IceCream",
         image: food_11,
         price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Rich, creamy, chocolatey, smooth, indulgent, frozen, sweet, velvety, delicious.",
         category: "Deserts"
     }, {
         _id: "12",
-        name: "Vanilla Ice Cream",
+        name: "Vanilla",
         image: food_12,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Creamy, sweet, smooth, cold, classic, rich, indulgent, simple, refreshing, delicious.",
         category: "Deserts"
     },
     {
         _id: "13",
-        name: "Chicken Sandwich",
+        name: "Chilly Sandwich",
         image: food_13,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Spicy, crispy sandwich with chili, cheese, and tangy flavors.",
         category: "Sandwich"
     },
     {
         _id: "14",
-        name: "Vegan Sandwich",
+        name: "Veg Sandwich",
         image: food_14,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A fresh, healthy sandwich with veggies, cheese, pure veg and sauces.",
         category: "Sandwich"
     }, {
         _id: "15",
-        name: "Grilled Sandwich",
+        name: "Aloo Sandwich",
         image: food_15,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Aloo sandwich: Spicy mashed potatoes, veggies, and chutney between bread slices.",
         category: "Sandwich"
     }, {
         _id: "16",
-        name: "Bread Sandwich",
+        name: "Club Sandwich",
         image: food_16,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A club sandwich is a layered sandwich with meat, lettuce, and tomato.",
         category: "Sandwich"
     }, {
         _id: "17",
         name: "Cup Cake",
         image: food_17,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A sweet, fluffy dessert topped with creamy and decorations.",
         category: "Cake"
     }, {
         _id: "18",
         name: "Vegan Cake",
         image: food_18,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A delicious, plant-based cake made without dairy or eggs.",
         category: "Cake"
     }, {
         _id: "19",
         name: "Butterscotch",
         image: food_19,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Buttery, creamy, sweet, caramelized, flavorful, soft.",
         category: "Cake"
     }, {
         _id: "20",
-        name: "Sliced Cake",
+        name: "Slice Cake",
         image: food_20,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A delicious, moist cake with layers of rich, creamy filling.",
         category: "Cake"
     }, {
         _id: "21",
-        name: "Garlic Mushroom ",
+        name: "Mushroom",
         image: food_21,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Mushrooms are fungi with varied shapes, sizes, and flavors, often used in cooking.",
         category: "Pure Veg"
     }, {
         _id: "22",
         name: "Fried ghobhi",
         image: food_22,
         price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Crispy, golden cauliflower florets, seasoned with spices,crunchy.",
         category: "Pure Veg"
     }, {
         _id: "23",
-        name: "Mix Veg Pulao",
+        name: "Veg Pulao",
         image: food_23,
         price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A fragrant, spiced rice dish with mixed vegetables and herbs.",
         category: "Pure Veg"
     }, {
         _id: "24",
-        name: "Rice Zucchini",
+        name: "Rice",
         image: food_24,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Rice is a staple grain, nutritious, versatile, and globally consumed.",
         category: "Pure Veg"
     },
     {
         _id: "25",
-        name: "Cheese Pasta",
+        name: "Chilly Pasta",
         image: food_25,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Spicy, flavorful pasta with chili, garlic, olive oil, and fresh herbs.",
         category: "Pasta"
     },
     {
@@ -310,49 +310,49 @@ export const food_list = [
         name: "Tomato Pasta",
         image: food_26,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "A delicious dish of pasta in rich, tangy tomato sauce with herbs.",
         category: "Pasta"
     }, {
         _id: "27",
-        name: "Creamy Pasta",
+        name: "Cream Pasta",
         image: food_27,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Rich, velvety pasta coated in creamy sauce, garlic and herbs. Delicious!",
         category: "Pasta"
     }, {
         _id: "28",
         name: "Chicken Pasta",
         image: food_28,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Creamy, savory chicken pasta with tender chicken, rich sauce, and flavorful herbs.",
         category: "Pasta"
     }, {
         _id: "29",
-        name: "Buttter Noodles",
+        name: "Cheese Noodles",
         image: food_29,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Cheese noodles are creamy, cheesy pasta with a savory and indulgent flavor.",
         category: "Noodles"
     }, {
         _id: "30",
         name: "Veg Noodles",
         image: food_30,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Veg noodles are a delicious mix of vegetables and noodles in flavorful seasoning.",
         category: "Noodles"
     }, {
         _id: "31",
-        name: "Somen Noodles",
+        name: "Soba Noodles",
         image: food_31,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Soba noodles are buckwheat-based Japanese noodles, typically served hot or cold.",
         category: "Noodles"
     }, {
         _id: "32",
-        name: "Cooked Noodles",
+        name: "Oil Noodles",
         image: food_32,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Oil noodles are stir-fried noodles with a savory, oily sauce and seasonings.",
         category: "Noodles"
     }
 ]
